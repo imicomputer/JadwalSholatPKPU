@@ -1,4 +1,4 @@
-# Jadwal Sholat PKPU
+# Jadwal Sholat Bulanan (versi PKPU)
 Pengambil Jadwal Sholat bulanan PKPU.or.id (https://jadwalsholat.pkpu.or.id) per kota NKRI dari Command Prompt menggunakan Python 2
 
 ## Persyaratan
