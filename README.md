@@ -10,3 +10,6 @@ Pengambil Jadwal Sholat bulanan PKPU.or.id (https://jadwalsholat.pkpu.or.id) per
 
 ## Penggunaan
 > python JadwalSholatPKPU.py "https://jadwalsholat.pkpu.or.id/?id=[id_kota]" > [NamaFileLog].LOG
+
+## Output
+> JadwalSholatPKPU.html
